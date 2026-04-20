@@ -103,7 +103,7 @@ const nadesByMap: Record<string, Nade[]> = {
 // -----------------------------
         { id: 12, type: "molotov", icon: Flame, color: "#991b1b", x: "17%", y: "9%", team: "t", videoUrl: "https://www.youtube.com/embed/48r0C6XDXKs", title: "Молотов на выход апсов + кар", description: "ЛКМ", setpos: "setpos -1167.967041 653.125916 -16.128754;setang -8.883579 170.079102 0.000000" },
         { id: 13, type: "molotov", icon: Flame, color: "#991b1b", x: "47%", y: "14%", team: "ct", videoUrl: "https://www.youtube.com/embed/IFsPXPxJNDE", title: "Молотов на вход в апсы с шорта", description: "ЛКМ + прыжок", setpos: "setpos -752.031555 -55.415344 -100.555237;setang -35.837975 87.016235 0.000000" },
-        { id: 14, type: "molotov", icon: Flame, color: "#991b1b", x: "37%", y: "44%", team: "t", videoUrl: "https://www.youtube.com/embed/juaiirIwUqo", title: "Молотов в окно", description: "ЛКМ + прыжок", setpos: "setpos 397.711700 -119.701965 -106.185959;setang 10.428302 -153.499222 0.000000" },
+        { id: 14, type: "molotov", icon: Flame, color: "#991b1b", x: "37%", y: "44%", team: "t", videoUrl: "https://kinescope.io/4VzEXFjb6y4EBmi6XSARpR", title: "Молотов в окно", description: "ЛКМ + прыжок", setpos: "setpos 397.711700 -119.701965 -106.185959;setang 10.428302 -153.499222 0.000000" },
         { id: 15, type: "molotov", icon: Flame, color: "#991b1b", x: "56.5%", y: "51%", team: "any", videoUrl: "https://www.youtube.com/embed/EwRfL265K8Q", title: "Молотов на стул из конектора", description: "ЛКМ + прыжок", setpos: "" },
         { id: 16, type: "molotov", icon: Flame, color: "#991b1b", x: "76%", y: "70%", team: "ct", videoUrl: "https://www.youtube.com/embed/ghckfZcoZng", title: "Молотов в яму", description: "ЛКМ + бег", setpos: "setpos -939.036499 -2411.159912 -104.128754;setang -14.525906 44.044735 0.000000" },
         { id: 17, type: "molotov", icon: Flame, color: "#991b1b", x: "61.5%", y: "66%", team: "ct", videoUrl: "https://www.youtube.com/embed/CIT8MUct-1Y", title: "Молотов тетрис", description: "ЛКМ + бег", setpos: "setpos -1119.968384 -1527.435425 -97.236465;setang -8.704641 -1.877687 0.000000" },
@@ -545,7 +545,7 @@ const nadesByMap: Record<string, Nade[]> = {
   },
   {
           x: "92.3%", y: "32.5%",
-          videoUrl: "https://www.youtube.com/embed/IoiLUU4iFvE",
+          videoUrl: "https://kinescope.io/8go22p5kDHoWWzpkoRdeem",
           description: "ЛКМ + шаг + прыжок",
           setpos: "setpos 1216.000000 -115.000000 -101.936905;setang -45.045853 -168.244492 0.000000"
   },
@@ -865,7 +865,7 @@ const nadesByMap: Record<string, Nade[]> = {
         },
         {
           x: "51%", y: "46%",
-          videoUrl: "https://www.youtube.com/embed/TfjfZUn2zj8",
+          videoUrl: "https://kinescope.io/vzxaQNVkQ58TBwA5vC38WU",
           description: "ЛКМ + прыжок",
           setpos: ""
         },]},
@@ -941,7 +941,7 @@ const nadesByMap: Record<string, Nade[]> = {
         },]},
   ],
   inferno: [
-    { id: 1, type: "smoke", icon: Circle, color: "#4b5563", x: "40%", y: "45%", team: "t", videoUrl: "", title: "Дым на арки", description: "Блок арок", setpos: "setpos -123.45 678.90 -12.34; setang 0 90 0" },
+    { id: 1, type: "smoke", icon: Circle, color: "#4b5563", x: "40%", y: "45%", team: "t", videoUrl: "https://kinescope.io/t2kNkcsUyKMmDGeVF18L24", title: "Дым на арки", description: "Блок арок", setpos: "setpos -123.45 678.90 -12.34; setang 0 90 0" },
     { id: 2, type: "molotov", icon: Flame, color: "#991b1b", x: "62%", y: "58%", team: "ct", videoUrl: "", title: "Молотов банан", description: "Задержка банана", setpos: "setpos -123.45 678.90 -12.34; setang 0 90 0" },
     { id: 3, type: "flash", icon: EyeOff, color: "#a16207", x: "45%", y: "50%", team: "t", videoUrl: "", title: "Флешка мид", description: "Флешка на мид", setpos: "setpos -123.45 678.90 -12.34; setang 0 90 0" },
     { id: 4, type: "he", icon: Bomb, color: "#365314", x: "68%", y: "40%", team: "ct", videoUrl: "", title: "HE библиотека", description: "Урон в библиотеке", setpos: "setpos -123.45 678.90 -12.34; setang 0 90 0" },
